@@ -1,5 +1,5 @@
 # Whatsapp profile scraper
-Interested in using this scraper? Get it here: [Whatsapp profile scraper](https://apify.com/curious_coder/whatsapp-profile-scraper)
+Interested in using this scraper? Get it here: [Whatsapp profile scraper](https://apify.com/curious_coder/whatsapp-scraper)
 ## Sample data
 ### Scrape whatsapp profiles
 
